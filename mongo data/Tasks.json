@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "5eef35ddd8440e5a361667c1"
+  },
+  "id": "None",
+  "taskTitle": "Aadhar Update",
+  "taskDescription": "change number",
+  "payload": "-",
+  "currentOwner": "vishal.wudaru@gmail.com",
+  "createdBy": "teja.wudaru@gmail.com",
+  "assignedType": "individual",
+  "assignedTo": "vishal.wudaru@gmail.com",
+  "status": "in progress",
+  "updatedBy": "teja.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2020-06-21T10:26:37.793Z"
+  },
+  "updatedTime": {
+    "$date": "2020-06-30T01:25:47.806Z"
+  }
+},{
+  "_id": {
+    "$oid": "5eef3b98a4c9f46619b158f1"
+  },
+  "id": "None",
+  "taskTitle": "Complete the services",
+  "taskDescription": "All crud methods",
+  "payload": "-",
+  "currentOwner": "teja.wudaru@gmail.com",
+  "createdBy": "vishal.wudaru@gmail.com",
+  "assignedType": "individual",
+  "assignedTo": "teja.wudaru@gmail.com",
+  "status": "started",
+  "updatedBy": "vishal.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2020-06-21T10:51:04.678Z"
+  },
+  "updatedTime": {
+    "$date": "2020-06-21T10:51:04.678Z"
+  }
+},{
+  "_id": {
+    "$oid": "5eef92e97b4afe364eaf8ff7"
+  },
+  "id": "None",
+  "taskTitle": "Machine code",
+  "taskDescription": "Complete the Machine Learning stuff",
+  "payload": "-",
+  "currentOwner": "teja.wudaru@gmail.com",
+  "createdBy": "gelle.abhiram@gmail.com",
+  "assignedType": "individual",
+  "assignedTo": "teja.wudaru@gmail.com",
+  "status": "waiting",
+  "updatedBy": "teja.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2020-06-21T17:03:37.504Z"
+  },
+  "updatedTime": {
+    "$date": "2020-06-30T15:38:16.838Z"
+  }
+},{
+  "_id": {
+    "$oid": "5eef9cf7c2a96c4d24c00136"
+  },
+  "id": "None",
+  "taskTitle": "string",
+  "taskDescription": "string",
+  "payload": "-",
+  "currentOwner": "string",
+  "createdBy": "teja.wudaru@gmail.com",
+  "assignedType": "group",
+  "assignedTo": "Python",
+  "status": "completed",
+  "updatedBy": "string",
+  "createdTime": {
+    "$date": "2020-06-21T17:46:31.802Z"
+  },
+  "updatedTime": {
+    "$date": "2020-08-03T21:48:35.386Z"
+  }
+},{
+  "_id": {
+    "$oid": "5eef9d3dc2a96c4d24c00138"
+  },
+  "id": "None",
+  "taskTitle": "Work on UI",
+  "taskDescription": "Complete userface by next week",
+  "payload": "-",
+  "currentOwner": "Angular",
+  "createdBy": "teja.wudaru@gmail.com",
+  "assignedType": "group",
+  "assignedTo": "Angular",
+  "status": "started",
+  "updatedBy": "teja.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2020-06-21T17:47:41.883Z"
+  },
+  "updatedTime": {
+    "$date": "2020-06-24T05:03:16.217Z"
+  }
+},{
+  "_id": {
+    "$oid": "5eef9f4a637160d22baa41a1"
+  },
+  "id": "None",
+  "taskTitle": "Complete Backend Services",
+  "taskDescription": "Complete basic crud and other services",
+  "payload": "-",
+  "currentOwner": "Python",
+  "createdBy": "vishal.wudaru@gmail.com",
+  "assignedType": "group",
+  "assignedTo": "vishal",
+  "status": "started",
+  "updatedBy": "vishal.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2020-06-21T17:56:26.601Z"
+  },
+  "updatedTime": {
+    "$date": "2020-06-21T17:56:26.601Z"
+  }
+},{
+  "_id": {
+    "$oid": "5eefac1d01479dfd3baba1ad"
+  },
+  "id": "None",
+  "taskTitle": "Complete your Application",
+  "taskDescription": "Combine your UI and Services",
+  "payload": "-",
+  "currentOwner": "angular",
+  "createdBy": "teja.wudaru@gmail.com",
+  "assignedType": "group",
+  "assignedTo": "angular",
+  "status": "started",
+  "updatedBy": "teja.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2020-06-21T18:51:09.982Z"
+  },
+  "updatedTime": {
+    "$date": "2020-06-21T18:51:09.982Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ef093a59c98c1c791ff9f33"
+  },
+  "id": "None",
+  "taskTitle": "Change my password",
+  "taskDescription": "Please change my password",
+  "payload": "-",
+  "currentOwner": "teja.wudaru@gmail.com",
+  "createdBy": "teja.wudaru@gmail.com",
+  "assignedType": "individual",
+  "assignedTo": "vishal.wudaru@gmail.com",
+  "status": "in progress",
+  "updatedBy": "teja.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2020-06-22T11:19:01.254Z"
+  },
+  "updatedTime": {
+    "$date": "2020-06-30T15:34:30.716Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f1eef3f05664c2bbc94e049"
+  },
+  "id": "None",
+  "taskTitle": "Change my username",
+  "taskDescription": "Please change my Username",
+  "payload": "-",
+  "currentOwner": "vishal.wudaru@gmail.com",
+  "createdBy": "teja.wudaru@gmail.com",
+  "assignedType": "individual",
+  "assignedTo": "vishal.wudaru@gmail.com",
+  "status": "in progress",
+  "updatedBy": "teja.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2020-06-22T11:22:06.495Z"
+  },
+  "updatedTime": {
+    "$date": "2020-06-30T15:35:11.822Z"
+  }
+},{
+  "_id": {
+    "$oid": "60daa88005aa1ba66a920b4a"
+  },
+  "id": "None",
+  "taskTitle": "Test Task",
+  "taskDescription": "test task",
+  "payload": "-",
+  "currentOwner": "gelle.abhiram@gmail.com",
+  "createdBy": "teja.wudaru@gmail.com",
+  "assignedType": "individual",
+  "assignedTo": "gelle.abhiram@gmail.com",
+  "status": "In progress",
+  "updatedBy": "teja.wudaru@gmail.com",
+  "createdTime": {
+    "$date": "2021-06-29T10:28:40.043Z"
+  },
+  "updatedTime": {
+    "$date": "2021-06-29T10:28:40.043Z"
+  }
+}]
